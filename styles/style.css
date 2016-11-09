@@ -1,0 +1,191 @@
+header {
+    background-color: #99a0a6; 
+}
+
+.navi {
+    border-bottom: 1px solid #fff;
+}
+
+.fihed {
+    margin: 0 auto;
+    width: 40%;
+}
+
+.top {
+    background-image: url(../images/Background.jpeg);
+    background-size: cover;
+    height: 1080px;
+    position: relative;
+}
+
+.fihed li {
+    display: inline-block;
+    width: 24%;
+    padding-top: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.fihed li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.log {
+    margin-left: 430px;
+    margin-top: 140px;
+}
+
+
+.top h1 {
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 60px;
+}
+
+.top p {
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.top button {
+    position: absolute;
+    left: 48%;
+    margin: auto;
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+}
+
+.top__ot {
+    margin-top: 220px;
+}
+
+.jason {
+    float: left;
+    width: 50%;
+}
+
+.about__fl {
+    float: left;
+    width: 50%;
+    text-align: left;
+}
+
+.container h2 {
+    font-size: 60px;
+}
+
+.container p {
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.container {
+    width: 90%;
+    margin: 100px auto;
+}
+
+.butto {
+    text-align: center;
+}
+
+.about__but {
+    color: #f1f1f1;
+    text-transform: uppercase;
+}
+
+.butto button {
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+}
+
+.portfolio {
+    background-image: url(../images/Background2.jpeg);
+    background-size: cover;
+}
+
+.portfolio h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 60px;
+    line-height: 120px;
+    text-transform: uppercase;
+    padding-top: 100px;
+}
+
+.portfolio p {
+    text-align: center;
+    color: #f1f1f1;
+    font-size: 18px;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+
+.portfolio button {
+    margin-left: 50%;
+    border: none;
+    background-color: inherit;
+    padding-bottom: 40px;
+}
+
+.foto {
+    display: block;
+    
+}
+
+.foto li {
+    display: inline-block;
+    width: 19%;
+    list-style: none;
+}
+
+.info {
+    text-align: center;
+    padding-top: 150px;
+}
+
+.info h3 {
+    font-size: 30px;
+    line-height: 120px;
+    color: #000;
+    margin-top: -70px;
+}
+
+.info p:nth-of-type(1) {
+    font-size: 60px;
+    line-height: 120px;
+    margin-top: -70px;
+}
+
+.info p:nth-of-type(2) {
+    font-size: 48px;
+    line-height: 120px;
+    margin-top: -70px;
+}
+
+.aa {
+    margin-top: -50px;
+    letter-spacing: 30px;
+}
+
+.feet {
+    text-align: center;
+    margin-top: 150px;
+    border-top: 2px solid #f1f1f1;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    line-height: 60px;
+}
+
+.fih {
+    position: fixed;
+    top: 0;
+    width: 1800px;
+    background-color: #f1f1f1;
+}
